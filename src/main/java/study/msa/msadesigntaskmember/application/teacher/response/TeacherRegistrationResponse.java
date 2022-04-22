@@ -9,5 +9,5 @@ import lombok.*;
 @AllArgsConstructor
 public class TeacherRegistrationResponse {
 
-    private int teacherId; // 강사 고유번호
+    private long teacherId; // 강사 고유번호
 }
